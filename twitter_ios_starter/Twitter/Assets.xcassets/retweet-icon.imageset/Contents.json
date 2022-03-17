@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "favor-icon.png",
+      "filename" : "retweet-icon.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "favor-icon@2x.png",
+      "filename" : "retweet-icon@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "favor-icon@3x.png",
+      "filename" : "retweet-icon@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
